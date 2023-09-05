@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/porzza/static/css/main.c7a9e7f7.css",
-    "main.js": "/porzza/static/js/main.5d28fe75.js",
+    "main.js": "/porzza/static/js/main.531a0c9d.js",
     "static/media/project2.jpg": "/porzza/static/media/project2.9852271d56db95e8c10a.jpg",
     "static/media/project5.jpg": "/porzza/static/media/project5.2237099857ccf0210dba.jpg",
     "static/media/project1.jpg": "/porzza/static/media/project1.d428e2f25f4b652cc2c5.jpg",
@@ -22,10 +22,10 @@
     "index.html": "/porzza/index.html",
     "static/media/html5.svg": "/porzza/static/media/html5.8664168d5bc90b1a24396f85aadbf623.svg",
     "main.c7a9e7f7.css.map": "/porzza/static/css/main.c7a9e7f7.css.map",
-    "main.5d28fe75.js.map": "/porzza/static/js/main.5d28fe75.js.map"
+    "main.531a0c9d.js.map": "/porzza/static/js/main.531a0c9d.js.map"
   },
   "entrypoints": [
     "static/css/main.c7a9e7f7.css",
-    "static/js/main.5d28fe75.js"
+    "static/js/main.531a0c9d.js"
   ]
 }
